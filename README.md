@@ -75,18 +75,3 @@ The Stacking Classifier outperformed individual models in terms of balanced accu
 │   └── EDA_and_Modeling.ipynb
 ├── README.md
 └── requirements.txt
-
-
-📬 Contact
-Created by Sai Ganesh Dhara – Feel free to connect via LinkedIn or raise an issue for questions or suggestions.
-
-📝 License
-This project is open-source and available under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want the `requirements.txt` file or badges (e.g., Python version, license, etc.) added too.
